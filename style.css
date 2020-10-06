@@ -1,0 +1,16 @@
+body{
+    background: blue;
+}
+
+.grid{
+    width: 200px; /* each square 20*20px */
+    height: 400px;
+    background: red;
+    display: flex;
+    flex-wrap: wrap;
+}
+.grid div{
+    height: 20px;
+    width: 20px;
+    background-color: yellow;
+    }
