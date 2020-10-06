@@ -12,5 +12,9 @@ body{
 .grid div{
     height: 20px;
     width: 20px;
-    background-color: yellow;
+    /* background-color: yellow; */
     }
+
+.tetromino{
+    background-color: aqua;
+}
